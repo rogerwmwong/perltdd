@@ -45,9 +45,9 @@ use warnings;
 
 __END__
 =head1 NAME
-Fruit.pm - Define Fruit Object - Getters and Setters
+Fruit1.pm - Define Fruit1 Object - Getters and Setters
 =head1 SYNOPSIS
-Fruit has name, colour and taste
+Fruit1 has name, colour and taste
 =head1 DESCRIPTION
-Define attributes for Fruit using test driven development
+Define attributes for Fruit1 using test driven development
 =cut                                                
